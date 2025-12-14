@@ -106,3 +106,4 @@ Ensure you have the following installed:
 2.  Access the **"Dashboard"** from the Navbar.
 3.  **Create Plan**: Fill in details and publish.
 4.  Your plans will immediately appear on the Landing Page and in the feeds of your followers.
+
